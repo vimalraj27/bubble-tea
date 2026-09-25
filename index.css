@@ -17,7 +17,7 @@ body{
     width: 100vw;
     height: 100vh;
     position: relative;
-    background-image: url('./assets/Rectangle\ 2.jpg');
+    background-image: url('./image/Rectangle\ 2.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: top right;
@@ -508,7 +508,7 @@ section > ul{
     flex-direction: column;
     align-items: center;
     border-radius: 23px;
-    background-image: url('./assets/card_back.jpg');
+    background-image: url('./image/card_back.jpg');
     background-repeat: no-repeat;
     background-position: bottom right;
     background-color: white;
@@ -539,16 +539,16 @@ section > ul{
     padding: 10px;
 }
 .card2_img{
-    background-image: url('./assets/card2.jpg');
+    background-image: url('./image/card2.jpg');
 }
 .card3_img{
-    background-image: url('./assets/card3.jpg');
+    background-image: url('./image/card3.jpg');
 }
 .card4_img{
-    background-image: url('./assets/card4.jpg');
+    background-image: url('./image/card4.jpg');
 }
 .card5_img{
-    background-image: url('./assets/card5.jpg');
+    background-image: url('./image/card5.jpg');
 }
 .card1{
     transform: translateX(6%) translateY(-20%);
@@ -722,7 +722,7 @@ section > ul{
     position: absolute;
     left: 10%;
     bottom: 1%;
-    background-image: url('/assets/milk.png');
+    background-image: url('/image/milk.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 895px 664px;
@@ -902,16 +902,16 @@ span{
     top: 80%;
 }
 /* .img1{
-    background-image: url('/assets/strawmilk.png');
+    background-image: url('/image/strawmilk.png');
 }
 .img2{
-    background-image: url('/assets/coffee.png');
+    background-image: url('/image/coffee.png');
 }
 .img3{
-    background-image: url('/assets/purplemilk.png');
+    background-image: url('/image/purplemilk.png');
 }
 .img4{
-    background-image: url('/assets/mango.png');
+    background-image: url('/image/mango.png');
 } */
 /* .card2_card img{
     display: none;
@@ -1438,7 +1438,7 @@ footer{
         position: absolute;
         z-index: 10;
         background-repeat: no-repeat;
-        background-image: url('/assets/bubble.png');
+        background-image: url('/image/bubble.png');
         background-size: contain;
         transform: translateY(-85%) translateX(100%) rotate(27deg) scale(0.685);
         transform-origin: center;
@@ -1879,7 +1879,7 @@ footer{
         position: absolute;
         z-index: 10;
         background-repeat: no-repeat;
-        background-image: url('/assets/bubble.png');
+        background-image: url('/image/bubble.png');
         background-size: contain;
         transform: translateY(-85%) translateX(100%) rotate(27deg) scale(0.685);
         transform-origin: center;
