@@ -1,0 +1,125 @@
+/* @media screen and (min-width: 576px) and (max-width: 767.99px) {
+    header {
+        height: 60px;
+        z-index: 1000;
+    }
+    nav ul {
+        gap: 15px;
+    }
+    nav a {
+        padding: 10px;
+        font-size: 13px;
+    }
+    nav input {
+        display: none;
+    }
+    .search_bar {
+        width: auto;
+        right: 5%;
+    }
+    .left_1 {
+        width: 40%;
+        left: 8%;
+        top: 35%;
+    }
+    .left1_content p {
+        font-size: 12px;
+    }
+    .right_1 {
+        width: 35%;
+        left: 58%;
+        top: 60%;
+    }
+    .rigth1_content > p {
+        font-size: 12px;
+    }
+    .image1 {
+        width: 30%;
+        left: 35%;
+        top: 10%;
+    }
+    .image1 img {
+        width: 100%;
+        height: auto;
+    }
+    .left_2 {
+        width: 40%;
+        left: 5%;
+        top: 100px;
+    }
+    .left_2 h2 {
+        font-size: 40px;
+    }
+    .left_2 ul {
+        font-size: 30px;
+    }
+    .right_2 {
+        width: 50%;
+        left: 48%;
+        top: -150px;
+    }
+    .card1_container {
+        height: 350px;
+        overflow: auto;
+        scrollbar-width: none;
+    }
+    .card {
+        width: 280px;
+        height: 210px;
+        flex-shrink: 0;
+    }
+    .card_image {
+        width: 260px;
+        height: 130px;
+    }
+    .card1 {
+        transform: translateX(20%) translateY(0%);
+    }
+    .card2 {
+        transform: rotateZ(0deg) translateX(130%) translateY(0%);
+    }
+    .card3 {
+        transform: rotateZ(0deg) translateX(240%) translateY(0%);
+    }
+    .card4 {
+        transform: rotateZ(0deg) translateX(350%) translateY(0%);
+    }
+    .card5 {
+        transform: rotateZ(0deg) translateX(460%) translateY(0%);
+    }
+    .background_image {
+        width: 90%;
+        height: 80vh;
+        left: 5%;
+        background-size: contain;
+    }
+    .content3_content li {
+        width: 170px;
+        font-size: 14px;
+    }
+    .card2_container {
+        gap: 20px;
+    }
+    .card2_card {
+        width: 150px;
+        height: 210px;
+    }
+    .card3_container {
+        width: 90%;
+    }
+    .card3_card {
+        width: 30%;
+        height: 250px;
+    }
+    .card3_card p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .card4_card {
+        width: 280px;
+        height: 180px;
+    }
+    .footer_top {
+        grid-template-columns: repeat(2, 1fr);
+    }
+} */
